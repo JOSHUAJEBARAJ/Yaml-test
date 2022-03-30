@@ -9,5 +9,6 @@ jobs:
     steps:
     - name: Checkout 🛎️
       uses: actions/checkout@v2
-    - name: Kubescape custom actions
+    - name: Kubescape custom actionss
       uses: JOSHUAJEBARAJ/Kubescape-custom-actions@0.1
+
